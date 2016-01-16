@@ -1,0 +1,15 @@
+c:\Users\Сергей\Documents\Visual Studio 2008\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.dll
+c:\Users\Сергей\Documents\Visual Studio 2008\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.pdb
+c:\Users\Сергей\Documents\Visual Studio 2008\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.csprojResolveAssemblyReference.cache
+c:\Users\Сергей\Documents\Visual Studio 2008\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.dll
+c:\Users\Сергей\Documents\Visual Studio 2008\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.pdb
+c:\Users\Сергей\Documents\Visual Studio 2013\Projects\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.dll
+c:\Users\Сергей\Documents\Visual Studio 2013\Projects\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.pdb
+c:\Users\Сергей\Documents\Visual Studio 2013\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.csprojResolveAssemblyReference.cache
+c:\Users\Сергей\Documents\Visual Studio 2013\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.dll
+c:\Users\Сергей\Documents\Visual Studio 2013\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\bin\Debug\_Libraries.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Debug\_Libraries.pdb

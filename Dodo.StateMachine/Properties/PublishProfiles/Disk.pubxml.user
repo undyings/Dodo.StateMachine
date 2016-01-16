@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Этот файл используется в процессе публикации или упаковки вашего веб-проекта. Вы можете настроить поведение процесса,
+изменив этот файл MSBuild. Дополнительные сведения см. по адресу http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>c:\Root\Dodo.StateMachine</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ckeditor/js/sample.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/js/sf.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/css/fontello.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/config.json">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/fontello.eot">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/fontello.svg">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/fontello.ttf">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/fontello.woff">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/font/LICENSE.txt">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/js/abstracttoolbarmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/js/fulltoolbareditor.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/js/toolbarmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/js/toolbartextmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/codemirror.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/codemirror.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/javascript.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/LICENSE">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/neo.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/show-hint.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/ckeditor/toolbarconfigurator/lib/codemirror/show-hint.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="bin/Commune.Basis.dll">
+      <publishTime>12/11/2015 21:19:45</publishTime>
+    </File>
+    <File Include="bin/Commune.Data.dll">
+      <publishTime>12/11/2015 21:19:14</publishTime>
+    </File>
+    <File Include="bin/Commune.Diagnostics.dll">
+      <publishTime>09/22/2015 18:08:02</publishTime>
+    </File>
+    <File Include="bin/Commune.Html.dll">
+      <publishTime>01/16/2016 19:53:49</publishTime>
+    </File>
+    <File Include="bin/Dodo.StateMachine.dll">
+      <publishTime>01/16/2016 19:59:08</publishTime>
+    </File>
+    <File Include="bin/Font/font.css">
+      <publishTime>12/26/2015 00:32:32</publishTime>
+    </File>
+    <File Include="bin/Font/sept.woff">
+      <publishTime>11/17/2015 09:08:42</publishTime>
+    </File>
+    <File Include="bin/Images/icss_pseudo-class.png">
+      <publishTime>08/05/2015 13:45:54</publishTime>
+    </File>
+    <File Include="bin/MetaTech.Library.4.dll">
+      <publishTime>06/06/2015 23:56:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>01/06/2016 18:34:56</publishTime>
+    </File>
+    <File Include="bin/NitroBolt.Functional.dll">
+      <publishTime>01/06/2016 18:34:55</publishTime>
+    </File>
+    <File Include="bin/NitroBolt.Wui.dll">
+      <publishTime>01/06/2016 18:35:33</publishTime>
+    </File>
+    <File Include="bin/SoftTech.Wui.dll">
+      <publishTime>07/13/2015 14:04:55</publishTime>
+    </File>
+    <File Include="bin/System.Collections.Immutable.dll">
+      <publishTime>07/13/2015 17:07:04</publishTime>
+    </File>
+    <File Include="bin/System.Data.SQLite.dll">
+      <publishTime>01/20/2011 09:52:16</publishTime>
+    </File>
+    <File Include="ckeditor/adapters/jquery.js">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/Black.png">
+      <publishTime>04/27/2014 14:47:15</publishTime>
+    </File>
+    <File Include="ckeditor/CHANGES.md">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/ckeditor.js">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/config.js">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/contents.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/css/samples.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/js/sample.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/js/sf.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/lang/ru.js">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/LICENSE.md">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/plugins/icons.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/README.md">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/dialog.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/dialog_ie.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/dialog_ie7.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/dialog_ie8.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/dialog_iequirks.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor_gecko.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor_ie.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor_ie7.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor_ie8.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/editor_iequirks.css">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/icons.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/icons_hidpi.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/arrow.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/close.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/hidpi/close.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/hidpi/lock-open.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/hidpi/lock.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/hidpi/refresh.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/lock-open.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/lock.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/refresh.png">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/images/spinner.gif">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/skins/moono/readme.md">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/styles.js">
+      <publishTime>08/04/2015 16:37:14</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/css/fontello.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/config.json">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/fontello.eot">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/fontello.svg">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/fontello.ttf">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/fontello.woff">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/font/LICENSE.txt">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/index.html">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/js/abstracttoolbarmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/js/fulltoolbareditor.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/js/toolbarmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/js/toolbartextmodifier.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/codemirror.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/codemirror.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/javascript.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/LICENSE">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/neo.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/show-hint.css">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="ckeditor/toolbarconfigurator/lib/codemirror/show-hint.js">
+      <publishTime>08/04/2015 15:14:02</publishTime>
+    </File>
+    <File Include="Font/Elusive-Icons.woff">
+      <publishTime>11/17/2015 19:22:38</publishTime>
+    </File>
+    <File Include="Font/font.css">
+      <publishTime>01/16/2016 17:50:17</publishTime>
+    </File>
+    <File Include="Font/font2.css">
+      <publishTime>11/17/2015 21:03:27</publishTime>
+    </File>
+    <File Include="Font/sept.woff">
+      <publishTime>11/17/2015 09:08:42</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/28/2015 11:31:42</publishTime>
+    </File>
+    <File Include="Images/Black.png">
+      <publishTime>08/10/2015 21:07:07</publishTime>
+    </File>
+    <File Include="Images/icss_pseudo-class.png">
+      <publishTime>08/05/2015 13:45:54</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>06/21/2015 22:09:38</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>09/22/2015 18:23:49</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/05/2016 12:44:12</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

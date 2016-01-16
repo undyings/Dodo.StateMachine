@@ -1,0 +1,5 @@
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\bin\Release\_Libraries.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\bin\Release\_Libraries.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Release\_Libraries.dll
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Release\_Libraries.pdb
+C:\Users\Сергей\Documents\Visual Studio 2015\Projects\Dodo.StateMachine\_Libraries\obj\Release\_Libraries.csprojResolveAssemblyReference.cache
